@@ -123,7 +123,7 @@ movie-sentiment-analysis/
 
 ```bash
 # Clone the repository
-git clone https://github.com/MahamMohsin/movie-sentiment-analysis.git
+git clone https://github.com/MahamMohsin/Movie-Sentiment-Analysis.git
 cd movie-sentiment-analysis
 
 # Install dependencies
@@ -144,15 +144,6 @@ All plots will be saved in the `plots/` folder automatically.
 - [ ] Build an interactive Streamlit web app
 - [ ] Add multi-class sentiment (very positive, neutral, very negative)
 - [ ] Deploy as a REST API using Flask
-
----
-
-## 👤 Author
-
-**Maham Mohsin**  
-BS Computer Science  
-📧 [your-email@example.com]  
-🔗 [GitHub](https://github.com/MahamMohsin)
 
 ---
 
