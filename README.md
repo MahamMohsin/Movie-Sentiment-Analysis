@@ -141,14 +141,4 @@ All plots will be saved in the `plots/` folder automatically.
 
 ---
 
-## 🔮 Future Improvements
-
-- [ ] Implement Deep Learning model (LSTM / BERT)
-- [ ] Build an interactive Streamlit web app
-- [ ] Add multi-class sentiment (very positive, neutral, very negative)
-- [ ] Deploy as a REST API using Flask
-- [ ] Hyperparameter tuning with GridSearchCV
-
-
-
 This project is open-source and available under the [MIT License](LICENSE).
