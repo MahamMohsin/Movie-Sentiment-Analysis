@@ -77,11 +77,6 @@ Python 3.x
 - `ngram_range = (1, 2)` — captures unigrams and bigrams
 - English stop words removed
 
-### 3. Models Trained
-| Model | Accuracy |
-|---|---|
-| ✅ Logistic Regression | **100%** |
-| Naive Bayes | **100%** |
 
 > Both models achieved strong accuracy. Logistic Regression is preferred for production as it provides probability scores and interpretable coefficients.
 
