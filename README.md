@@ -136,17 +136,3 @@ python sentiment_analysis.py
 All plots will be saved in the `plots/` folder automatically.
 
 ---
-
-## 🔮 Future Improvements
-
-- [ ] Train on real IMDb dataset (50,000 reviews)
-- [ ] Implement Deep Learning model (LSTM / BERT)
-- [ ] Build an interactive Streamlit web app
-- [ ] Add multi-class sentiment (very positive, neutral, very negative)
-- [ ] Deploy as a REST API using Flask
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
