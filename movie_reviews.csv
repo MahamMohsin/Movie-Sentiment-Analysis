@@ -1,0 +1,501 @@
+review,sentiment,genre,rating,word_count
+An absolute masterpiece. The storytelling was breathtaking and emotional.,positive,Horror,7.6,9
+"Honestly, One of the best films I have ever seen. Truly outstanding performance.",positive,Thriller,8.4,13
+"Overall, The cinematography was stunning and the plot was incredibly engaging.",positive,Romance,7.6,11
+"In my opinion, A beautiful and moving story that will stay with you for days.",positive,Horror,9.4,15
+"To be fair, Exceptional acting and a gripping storyline from start to finish.",positive,Comedy,7.5,13
+Loved every minute of it. The director did an amazing job.,positive,Romance,9.9,11
+"Honestly, Brilliant film with fantastic dialogue and incredible direction.",positive,Romance,8.1,9
+"Overall, Heartwarming and inspiring. Left me feeling genuinely uplifted.",positive,Horror,9.4,9
+"In my opinion, A wonderful cinematic experience. Highly recommend to everyone.",positive,Action,7.2,11
+"To be fair, The best movie of the year. Perfectly crafted and deeply touching.",positive,Comedy,7.9,14
+Superb performances all around. The film exceeded all expectations.,positive,Horror,8.9,9
+"Honestly, Visually spectacular with an emotionally powerful narrative.",positive,Comedy,7,8
+"Overall, A triumph of filmmaking. Every scene is crafted with care.",positive,Comedy,7,11
+"In my opinion, Deeply moving and beautifully acted. An unforgettable journey.",positive,Romance,9.9,11
+"To be fair, Thrilling from start to finish with a satisfying conclusion.",positive,Thriller,9,12
+The chemistry between the actors was undeniable and charming.,positive,Comedy,6.6,9
+"Honestly, Crisp writing and sharp direction made this a joy to watch.",positive,Sci-Fi,7.9,12
+"Overall, A rare gem that combines action and heart seamlessly.",positive,Romance,8,10
+"In my opinion, The soundtrack was phenomenal and perfectly set the mood.",positive,Action,9.1,12
+"To be fair, A compelling and thought-provoking film with stellar acting.",positive,Thriller,7.4,11
+Absolutely loved the plot twists. Kept me hooked throughout.,positive,Sci-Fi,7.1,9
+"Honestly, Refreshingly original story with fantastic world-building.",positive,Sci-Fi,6.8,7
+"Overall, The pacing was perfect and the characters were well developed.",positive,Action,8,11
+"In my opinion, An emotional rollercoaster that hit every beat correctly.",positive,Thriller,8.9,11
+"To be fair, Outstanding visual effects that never distracted from the story.",positive,Romance,6.7,12
+An absolute masterpiece. The storytelling was breathtaking and emotional.,positive,Drama,9.7,9
+"Honestly, One of the best films I have ever seen. Truly outstanding performance.",positive,Thriller,8,13
+"Overall, The cinematography was stunning and the plot was incredibly engaging.",positive,Action,7.3,11
+"In my opinion, A beautiful and moving story that will stay with you for days.",positive,Sci-Fi,6.8,15
+"To be fair, Exceptional acting and a gripping storyline from start to finish.",positive,Romance,7.1,13
+Loved every minute of it. The director did an amazing job.,positive,Thriller,9.8,11
+"Honestly, Brilliant film with fantastic dialogue and incredible direction.",positive,Drama,8.7,9
+"Overall, Heartwarming and inspiring. Left me feeling genuinely uplifted.",positive,Drama,8.3,9
+"In my opinion, A wonderful cinematic experience. Highly recommend to everyone.",positive,Comedy,8.8,11
+"To be fair, The best movie of the year. Perfectly crafted and deeply touching.",positive,Comedy,8,14
+Superb performances all around. The film exceeded all expectations.,positive,Horror,9.1,9
+"Honestly, Visually spectacular with an emotionally powerful narrative.",positive,Action,6.7,8
+"Overall, A triumph of filmmaking. Every scene is crafted with care.",positive,Thriller,8.5,11
+"In my opinion, Deeply moving and beautifully acted. An unforgettable journey.",positive,Thriller,7.1,11
+"To be fair, Thrilling from start to finish with a satisfying conclusion.",positive,Horror,6.9,12
+The chemistry between the actors was undeniable and charming.,positive,Sci-Fi,7.7,9
+"Honestly, Crisp writing and sharp direction made this a joy to watch.",positive,Sci-Fi,6.8,12
+"Overall, A rare gem that combines action and heart seamlessly.",positive,Horror,6.8,10
+"In my opinion, The soundtrack was phenomenal and perfectly set the mood.",positive,Sci-Fi,7.6,12
+"To be fair, A compelling and thought-provoking film with stellar acting.",positive,Comedy,9.9,11
+Absolutely loved the plot twists. Kept me hooked throughout.,positive,Thriller,7.1,9
+"Honestly, Refreshingly original story with fantastic world-building.",positive,Horror,6.6,7
+"Overall, The pacing was perfect and the characters were well developed.",positive,Thriller,9.2,11
+"In my opinion, An emotional rollercoaster that hit every beat correctly.",positive,Drama,9.3,11
+"To be fair, Outstanding visual effects that never distracted from the story.",positive,Comedy,7.7,12
+An absolute masterpiece. The storytelling was breathtaking and emotional.,positive,Romance,8.1,9
+"Honestly, One of the best films I have ever seen. Truly outstanding performance.",positive,Comedy,8.8,13
+"Overall, The cinematography was stunning and the plot was incredibly engaging.",positive,Horror,6.7,11
+"In my opinion, A beautiful and moving story that will stay with you for days.",positive,Romance,9.8,15
+"To be fair, Exceptional acting and a gripping storyline from start to finish.",positive,Drama,9.6,13
+Loved every minute of it. The director did an amazing job.,positive,Horror,7.4,11
+"Honestly, Brilliant film with fantastic dialogue and incredible direction.",positive,Action,6.6,9
+"Overall, Heartwarming and inspiring. Left me feeling genuinely uplifted.",positive,Thriller,9.8,9
+"In my opinion, A wonderful cinematic experience. Highly recommend to everyone.",positive,Drama,8.3,11
+"To be fair, The best movie of the year. Perfectly crafted and deeply touching.",positive,Thriller,8.4,14
+Superb performances all around. The film exceeded all expectations.,positive,Sci-Fi,8.9,9
+"Honestly, Visually spectacular with an emotionally powerful narrative.",positive,Action,8.7,8
+"Overall, A triumph of filmmaking. Every scene is crafted with care.",positive,Action,9.8,11
+"In my opinion, Deeply moving and beautifully acted. An unforgettable journey.",positive,Drama,9.8,11
+"To be fair, Thrilling from start to finish with a satisfying conclusion.",positive,Action,9.5,12
+The chemistry between the actors was undeniable and charming.,positive,Romance,8.7,9
+"Honestly, Crisp writing and sharp direction made this a joy to watch.",positive,Action,9.3,12
+"Overall, A rare gem that combines action and heart seamlessly.",positive,Thriller,8.9,10
+"In my opinion, The soundtrack was phenomenal and perfectly set the mood.",positive,Thriller,8.5,12
+"To be fair, A compelling and thought-provoking film with stellar acting.",positive,Horror,6.9,11
+Absolutely loved the plot twists. Kept me hooked throughout.,positive,Thriller,9.3,9
+"Honestly, Refreshingly original story with fantastic world-building.",positive,Horror,9.4,7
+"Overall, The pacing was perfect and the characters were well developed.",positive,Thriller,8.7,11
+"In my opinion, An emotional rollercoaster that hit every beat correctly.",positive,Romance,9.4,11
+"To be fair, Outstanding visual effects that never distracted from the story.",positive,Horror,8.8,12
+An absolute masterpiece. The storytelling was breathtaking and emotional.,positive,Comedy,7.2,9
+"Honestly, One of the best films I have ever seen. Truly outstanding performance.",positive,Sci-Fi,7.5,13
+"Overall, The cinematography was stunning and the plot was incredibly engaging.",positive,Drama,7.3,11
+"In my opinion, A beautiful and moving story that will stay with you for days.",positive,Thriller,7.8,15
+"To be fair, Exceptional acting and a gripping storyline from start to finish.",positive,Action,6.6,13
+Loved every minute of it. The director did an amazing job.,positive,Thriller,8.7,11
+"Honestly, Brilliant film with fantastic dialogue and incredible direction.",positive,Action,7.7,9
+"Overall, Heartwarming and inspiring. Left me feeling genuinely uplifted.",positive,Sci-Fi,8.8,9
+"In my opinion, A wonderful cinematic experience. Highly recommend to everyone.",positive,Sci-Fi,7.8,11
+"To be fair, The best movie of the year. Perfectly crafted and deeply touching.",positive,Sci-Fi,8.9,14
+Superb performances all around. The film exceeded all expectations.,positive,Action,7.7,9
+"Honestly, Visually spectacular with an emotionally powerful narrative.",positive,Thriller,7.4,8
+"Overall, A triumph of filmmaking. Every scene is crafted with care.",positive,Sci-Fi,8.2,11
+"In my opinion, Deeply moving and beautifully acted. An unforgettable journey.",positive,Romance,8.9,11
+"To be fair, Thrilling from start to finish with a satisfying conclusion.",positive,Horror,7.7,12
+The chemistry between the actors was undeniable and charming.,positive,Action,9.8,9
+"Honestly, Crisp writing and sharp direction made this a joy to watch.",positive,Action,6.6,12
+"Overall, A rare gem that combines action and heart seamlessly.",positive,Thriller,8,10
+"In my opinion, The soundtrack was phenomenal and perfectly set the mood.",positive,Action,9.9,12
+"To be fair, A compelling and thought-provoking film with stellar acting.",positive,Action,8.4,11
+Absolutely loved the plot twists. Kept me hooked throughout.,positive,Sci-Fi,8,9
+"Honestly, Refreshingly original story with fantastic world-building.",positive,Thriller,8.5,7
+"Overall, The pacing was perfect and the characters were well developed.",positive,Sci-Fi,8.5,11
+"In my opinion, An emotional rollercoaster that hit every beat correctly.",positive,Horror,9.1,11
+"To be fair, Outstanding visual effects that never distracted from the story.",positive,Horror,6.9,12
+An absolute masterpiece. The storytelling was breathtaking and emotional.,positive,Sci-Fi,7.4,9
+"Honestly, One of the best films I have ever seen. Truly outstanding performance.",positive,Horror,8.5,13
+"Overall, The cinematography was stunning and the plot was incredibly engaging.",positive,Thriller,9.5,11
+"In my opinion, A beautiful and moving story that will stay with you for days.",positive,Drama,8.5,15
+"To be fair, Exceptional acting and a gripping storyline from start to finish.",positive,Sci-Fi,7.3,13
+Loved every minute of it. The director did an amazing job.,positive,Romance,8.9,11
+"Honestly, Brilliant film with fantastic dialogue and incredible direction.",positive,Romance,9.1,9
+"Overall, Heartwarming and inspiring. Left me feeling genuinely uplifted.",positive,Action,7.3,9
+"In my opinion, A wonderful cinematic experience. Highly recommend to everyone.",positive,Horror,7.8,11
+"To be fair, The best movie of the year. Perfectly crafted and deeply touching.",positive,Romance,8.4,14
+Superb performances all around. The film exceeded all expectations.,positive,Action,8.2,9
+"Honestly, Visually spectacular with an emotionally powerful narrative.",positive,Drama,7.9,8
+"Overall, A triumph of filmmaking. Every scene is crafted with care.",positive,Thriller,7.5,11
+"In my opinion, Deeply moving and beautifully acted. An unforgettable journey.",positive,Thriller,6.8,11
+"To be fair, Thrilling from start to finish with a satisfying conclusion.",positive,Thriller,6.7,12
+The chemistry between the actors was undeniable and charming.,positive,Romance,9.9,9
+"Honestly, Crisp writing and sharp direction made this a joy to watch.",positive,Drama,9.5,12
+"Overall, A rare gem that combines action and heart seamlessly.",positive,Romance,7.7,10
+"In my opinion, The soundtrack was phenomenal and perfectly set the mood.",positive,Horror,9.8,12
+"To be fair, A compelling and thought-provoking film with stellar acting.",positive,Romance,8.9,11
+Absolutely loved the plot twists. Kept me hooked throughout.,positive,Drama,8.2,9
+"Honestly, Refreshingly original story with fantastic world-building.",positive,Drama,8.2,7
+"Overall, The pacing was perfect and the characters were well developed.",positive,Horror,6.8,11
+"In my opinion, An emotional rollercoaster that hit every beat correctly.",positive,Drama,6.8,11
+"To be fair, Outstanding visual effects that never distracted from the story.",positive,Drama,8.6,12
+An absolute masterpiece. The storytelling was breathtaking and emotional.,positive,Thriller,8.4,9
+"Honestly, One of the best films I have ever seen. Truly outstanding performance.",positive,Horror,7.2,13
+"Overall, The cinematography was stunning and the plot was incredibly engaging.",positive,Comedy,9.8,11
+"In my opinion, A beautiful and moving story that will stay with you for days.",positive,Comedy,9.2,15
+"To be fair, Exceptional acting and a gripping storyline from start to finish.",positive,Drama,6.9,13
+Loved every minute of it. The director did an amazing job.,positive,Comedy,9.8,11
+"Honestly, Brilliant film with fantastic dialogue and incredible direction.",positive,Comedy,9.9,9
+"Overall, Heartwarming and inspiring. Left me feeling genuinely uplifted.",positive,Drama,10,9
+"In my opinion, A wonderful cinematic experience. Highly recommend to everyone.",positive,Comedy,6.7,11
+"To be fair, The best movie of the year. Perfectly crafted and deeply touching.",positive,Romance,9.1,14
+Superb performances all around. The film exceeded all expectations.,positive,Action,8.4,9
+"Honestly, Visually spectacular with an emotionally powerful narrative.",positive,Horror,9,8
+"Overall, A triumph of filmmaking. Every scene is crafted with care.",positive,Action,9.9,11
+"In my opinion, Deeply moving and beautifully acted. An unforgettable journey.",positive,Drama,8.9,11
+"To be fair, Thrilling from start to finish with a satisfying conclusion.",positive,Thriller,9.4,12
+The chemistry between the actors was undeniable and charming.,positive,Horror,9.5,9
+"Honestly, Crisp writing and sharp direction made this a joy to watch.",positive,Drama,9.4,12
+"Overall, A rare gem that combines action and heart seamlessly.",positive,Thriller,8,10
+"In my opinion, The soundtrack was phenomenal and perfectly set the mood.",positive,Action,7.3,12
+"To be fair, A compelling and thought-provoking film with stellar acting.",positive,Drama,7.9,11
+Absolutely loved the plot twists. Kept me hooked throughout.,positive,Horror,9.6,9
+"Honestly, Refreshingly original story with fantastic world-building.",positive,Horror,7,7
+"Overall, The pacing was perfect and the characters were well developed.",positive,Sci-Fi,8.3,11
+"In my opinion, An emotional rollercoaster that hit every beat correctly.",positive,Romance,7.3,11
+"To be fair, Outstanding visual effects that never distracted from the story.",positive,Comedy,8.5,12
+An absolute masterpiece. The storytelling was breathtaking and emotional.,positive,Thriller,9.5,9
+"Honestly, One of the best films I have ever seen. Truly outstanding performance.",positive,Sci-Fi,9.6,13
+"Overall, The cinematography was stunning and the plot was incredibly engaging.",positive,Comedy,7.3,11
+"In my opinion, A beautiful and moving story that will stay with you for days.",positive,Comedy,9.7,15
+"To be fair, Exceptional acting and a gripping storyline from start to finish.",positive,Drama,8.6,13
+Loved every minute of it. The director did an amazing job.,positive,Comedy,7.7,11
+"Honestly, Brilliant film with fantastic dialogue and incredible direction.",positive,Romance,9,9
+"Overall, Heartwarming and inspiring. Left me feeling genuinely uplifted.",positive,Horror,8.2,9
+"In my opinion, A wonderful cinematic experience. Highly recommend to everyone.",positive,Sci-Fi,7.8,11
+"To be fair, The best movie of the year. Perfectly crafted and deeply touching.",positive,Comedy,9,14
+Superb performances all around. The film exceeded all expectations.,positive,Drama,7.4,9
+"Honestly, Visually spectacular with an emotionally powerful narrative.",positive,Romance,7.7,8
+"Overall, A triumph of filmmaking. Every scene is crafted with care.",positive,Action,8,11
+"In my opinion, Deeply moving and beautifully acted. An unforgettable journey.",positive,Horror,7.4,11
+"To be fair, Thrilling from start to finish with a satisfying conclusion.",positive,Horror,7.9,12
+The chemistry between the actors was undeniable and charming.,positive,Sci-Fi,8.5,9
+"Honestly, Crisp writing and sharp direction made this a joy to watch.",positive,Horror,9.1,12
+"Overall, A rare gem that combines action and heart seamlessly.",positive,Comedy,9.2,10
+"In my opinion, The soundtrack was phenomenal and perfectly set the mood.",positive,Drama,9.4,12
+"To be fair, A compelling and thought-provoking film with stellar acting.",positive,Horror,9.1,11
+Absolutely loved the plot twists. Kept me hooked throughout.,positive,Horror,8.9,9
+"Honestly, Refreshingly original story with fantastic world-building.",positive,Action,7.3,7
+"Overall, The pacing was perfect and the characters were well developed.",positive,Action,7.9,11
+"In my opinion, An emotional rollercoaster that hit every beat correctly.",positive,Thriller,8.2,11
+"To be fair, Outstanding visual effects that never distracted from the story.",positive,Romance,6.8,12
+An absolute masterpiece. The storytelling was breathtaking and emotional.,positive,Comedy,8.3,9
+"Honestly, One of the best films I have ever seen. Truly outstanding performance.",positive,Horror,8,13
+"Overall, The cinematography was stunning and the plot was incredibly engaging.",positive,Horror,9.3,11
+"In my opinion, A beautiful and moving story that will stay with you for days.",positive,Drama,9.9,15
+"To be fair, Exceptional acting and a gripping storyline from start to finish.",positive,Thriller,8.4,13
+Loved every minute of it. The director did an amazing job.,positive,Romance,7.6,11
+"Honestly, Brilliant film with fantastic dialogue and incredible direction.",positive,Thriller,6.7,9
+"Overall, Heartwarming and inspiring. Left me feeling genuinely uplifted.",positive,Sci-Fi,9.7,9
+"In my opinion, A wonderful cinematic experience. Highly recommend to everyone.",positive,Romance,9.7,11
+"To be fair, The best movie of the year. Perfectly crafted and deeply touching.",positive,Horror,7.4,14
+Superb performances all around. The film exceeded all expectations.,positive,Horror,8.9,9
+"Honestly, Visually spectacular with an emotionally powerful narrative.",positive,Romance,6.8,8
+"Overall, A triumph of filmmaking. Every scene is crafted with care.",positive,Horror,7.1,11
+"In my opinion, Deeply moving and beautifully acted. An unforgettable journey.",positive,Comedy,7.3,11
+"To be fair, Thrilling from start to finish with a satisfying conclusion.",positive,Romance,7.5,12
+The chemistry between the actors was undeniable and charming.,positive,Thriller,10,9
+"Honestly, Crisp writing and sharp direction made this a joy to watch.",positive,Romance,8.9,12
+"Overall, A rare gem that combines action and heart seamlessly.",positive,Horror,7.8,10
+"In my opinion, The soundtrack was phenomenal and perfectly set the mood.",positive,Comedy,9.1,12
+"To be fair, A compelling and thought-provoking film with stellar acting.",positive,Comedy,9.7,11
+Absolutely loved the plot twists. Kept me hooked throughout.,positive,Sci-Fi,9.9,9
+"Honestly, Refreshingly original story with fantastic world-building.",positive,Thriller,6.7,7
+"Overall, The pacing was perfect and the characters were well developed.",positive,Action,7.9,11
+"In my opinion, An emotional rollercoaster that hit every beat correctly.",positive,Action,6.9,11
+"To be fair, Outstanding visual effects that never distracted from the story.",positive,Romance,7.7,12
+An absolute masterpiece. The storytelling was breathtaking and emotional.,positive,Sci-Fi,7.1,9
+"Honestly, One of the best films I have ever seen. Truly outstanding performance.",positive,Drama,8.8,13
+"Overall, The cinematography was stunning and the plot was incredibly engaging.",positive,Romance,7.9,11
+"In my opinion, A beautiful and moving story that will stay with you for days.",positive,Sci-Fi,7.3,15
+"To be fair, Exceptional acting and a gripping storyline from start to finish.",positive,Thriller,7.4,13
+Loved every minute of it. The director did an amazing job.,positive,Thriller,7.8,11
+"Honestly, Brilliant film with fantastic dialogue and incredible direction.",positive,Thriller,7.4,9
+"Overall, Heartwarming and inspiring. Left me feeling genuinely uplifted.",positive,Thriller,8.1,9
+"In my opinion, A wonderful cinematic experience. Highly recommend to everyone.",positive,Thriller,6.6,11
+"To be fair, The best movie of the year. Perfectly crafted and deeply touching.",positive,Sci-Fi,7.5,14
+Superb performances all around. The film exceeded all expectations.,positive,Sci-Fi,7.9,9
+"Honestly, Visually spectacular with an emotionally powerful narrative.",positive,Comedy,8.6,8
+"Overall, A triumph of filmmaking. Every scene is crafted with care.",positive,Action,7.4,11
+"In my opinion, Deeply moving and beautifully acted. An unforgettable journey.",positive,Horror,7,11
+"To be fair, Thrilling from start to finish with a satisfying conclusion.",positive,Thriller,6.8,12
+The chemistry between the actors was undeniable and charming.,positive,Drama,9.8,9
+"Honestly, Crisp writing and sharp direction made this a joy to watch.",positive,Horror,8,12
+"Overall, A rare gem that combines action and heart seamlessly.",positive,Sci-Fi,8.5,10
+"In my opinion, The soundtrack was phenomenal and perfectly set the mood.",positive,Drama,9.7,12
+"To be fair, A compelling and thought-provoking film with stellar acting.",positive,Drama,6.8,11
+Absolutely loved the plot twists. Kept me hooked throughout.,positive,Drama,9.6,9
+"Honestly, Refreshingly original story with fantastic world-building.",positive,Comedy,8.4,7
+"Overall, The pacing was perfect and the characters were well developed.",positive,Sci-Fi,7.1,11
+"In my opinion, An emotional rollercoaster that hit every beat correctly.",positive,Drama,7.9,11
+"To be fair, Outstanding visual effects that never distracted from the story.",positive,Thriller,9.2,12
+An absolute masterpiece. The storytelling was breathtaking and emotional.,positive,Romance,8.2,9
+"Honestly, One of the best films I have ever seen. Truly outstanding performance.",positive,Drama,9.9,13
+"Overall, The cinematography was stunning and the plot was incredibly engaging.",positive,Comedy,7.8,11
+"In my opinion, A beautiful and moving story that will stay with you for days.",positive,Horror,9.1,15
+"To be fair, Exceptional acting and a gripping storyline from start to finish.",positive,Sci-Fi,7.9,13
+Loved every minute of it. The director did an amazing job.,positive,Comedy,9.4,11
+"Honestly, Brilliant film with fantastic dialogue and incredible direction.",positive,Drama,8.5,9
+"Overall, Heartwarming and inspiring. Left me feeling genuinely uplifted.",positive,Sci-Fi,6.7,9
+"In my opinion, A wonderful cinematic experience. Highly recommend to everyone.",positive,Romance,6.6,11
+"To be fair, The best movie of the year. Perfectly crafted and deeply touching.",positive,Drama,7,14
+Superb performances all around. The film exceeded all expectations.,positive,Comedy,6.5,9
+"Honestly, Visually spectacular with an emotionally powerful narrative.",positive,Action,6.8,8
+"Overall, A triumph of filmmaking. Every scene is crafted with care.",positive,Thriller,8.9,11
+"In my opinion, Deeply moving and beautifully acted. An unforgettable journey.",positive,Horror,8.4,11
+"To be fair, Thrilling from start to finish with a satisfying conclusion.",positive,Comedy,9.1,12
+The chemistry between the actors was undeniable and charming.,positive,Sci-Fi,9.7,9
+"Honestly, Crisp writing and sharp direction made this a joy to watch.",positive,Drama,8.5,12
+"Overall, A rare gem that combines action and heart seamlessly.",positive,Thriller,9,10
+"In my opinion, The soundtrack was phenomenal and perfectly set the mood.",positive,Drama,9.1,12
+"To be fair, A compelling and thought-provoking film with stellar acting.",positive,Sci-Fi,7.8,11
+Absolutely loved the plot twists. Kept me hooked throughout.,positive,Drama,7.3,9
+"Honestly, Refreshingly original story with fantastic world-building.",positive,Action,7.2,7
+"Overall, The pacing was perfect and the characters were well developed.",positive,Thriller,7.4,11
+"In my opinion, An emotional rollercoaster that hit every beat correctly.",positive,Thriller,7.5,11
+"To be fair, Outstanding visual effects that never distracted from the story.",positive,Sci-Fi,7.2,12
+A complete waste of time. The plot made absolutely no sense.,negative,Horror,4.5,11
+"Honestly, Terribly boring film with zero character development whatsoever.",negative,Action,4,9
+"Overall, The worst movie I have seen in years. Deeply disappointing.",negative,Comedy,1.2,11
+"In my opinion, Poor acting, weak script, and a completely predictable ending.",negative,Drama,2.1,12
+"To be fair, I fell asleep halfway through. Nothing interesting happened.",negative,Romance,1.1,11
+A total disaster from the opening scene to the painful finale.,negative,Drama,3,11
+"Honestly, Confusing storyline with no resolution. Felt cheated watching this.",negative,Drama,2.9,10
+"Overall, The special effects were laughably bad and distracting.",negative,Comedy,4.3,9
+"In my opinion, Dull and lifeless. The characters were completely forgettable.",negative,Drama,2.2,11
+"To be fair, Painful to sit through. The dialogue was cringeworthy throughout.",negative,Action,4.3,12
+A massive disappointment given the talented cast involved.,negative,Action,4.9,8
+"Honestly, Rushed plot with too many unresolved storylines left hanging.",negative,Thriller,1.4,10
+"Overall, Could not connect with any of the characters at all.",negative,Sci-Fi,4.2,11
+"In my opinion, The writing felt lazy and uninspired throughout the whole film.",negative,Horror,3.4,13
+"To be fair, Tedious pacing made this feel three times longer than it was.",negative,Romance,2.9,14
+A hollow story with absolutely nothing original to offer.,negative,Drama,2.7,9
+"Honestly, The worst script I have encountered in recent memory.",negative,Drama,4.1,10
+"Overall, Loud, chaotic, and exhausting without any emotional depth.",negative,Comedy,3.6,9
+"In my opinion, The director clearly had no vision for this project.",negative,Sci-Fi,4.2,12
+"To be fair, Absolutely hated the ending. It undid everything built up.",negative,Action,4.6,12
+Cheap production values that undermined the entire experience.,negative,Romance,3.5,8
+"Honestly, Overly long and self-indulgent with very little payoff.",negative,Thriller,4.9,9
+"Overall, Flat performances from a cast that deserved much better.",negative,Action,3.4,10
+"In my opinion, Incoherent editing made it impossible to follow the narrative.",negative,Sci-Fi,3.5,12
+"To be fair, A formulaic and forgettable film that offers nothing new.",negative,Horror,3.2,12
+A complete waste of time. The plot made absolutely no sense.,negative,Thriller,1.4,11
+"Honestly, Terribly boring film with zero character development whatsoever.",negative,Horror,3.9,9
+"Overall, The worst movie I have seen in years. Deeply disappointing.",negative,Comedy,3.2,11
+"In my opinion, Poor acting, weak script, and a completely predictable ending.",negative,Comedy,2.8,12
+"To be fair, I fell asleep halfway through. Nothing interesting happened.",negative,Drama,4.6,11
+A total disaster from the opening scene to the painful finale.,negative,Horror,2.2,11
+"Honestly, Confusing storyline with no resolution. Felt cheated watching this.",negative,Sci-Fi,3.1,10
+"Overall, The special effects were laughably bad and distracting.",negative,Romance,3.8,9
+"In my opinion, Dull and lifeless. The characters were completely forgettable.",negative,Thriller,4.2,11
+"To be fair, Painful to sit through. The dialogue was cringeworthy throughout.",negative,Action,2.8,12
+A massive disappointment given the talented cast involved.,negative,Sci-Fi,4.4,8
+"Honestly, Rushed plot with too many unresolved storylines left hanging.",negative,Sci-Fi,4.1,10
+"Overall, Could not connect with any of the characters at all.",negative,Comedy,1.3,11
+"In my opinion, The writing felt lazy and uninspired throughout the whole film.",negative,Horror,1.2,13
+"To be fair, Tedious pacing made this feel three times longer than it was.",negative,Drama,3.5,14
+A hollow story with absolutely nothing original to offer.,negative,Drama,2.4,9
+"Honestly, The worst script I have encountered in recent memory.",negative,Thriller,1.8,10
+"Overall, Loud, chaotic, and exhausting without any emotional depth.",negative,Comedy,3.3,9
+"In my opinion, The director clearly had no vision for this project.",negative,Sci-Fi,2.4,12
+"To be fair, Absolutely hated the ending. It undid everything built up.",negative,Romance,3.1,12
+Cheap production values that undermined the entire experience.,negative,Comedy,2.8,8
+"Honestly, Overly long and self-indulgent with very little payoff.",negative,Thriller,3.3,9
+"Overall, Flat performances from a cast that deserved much better.",negative,Thriller,2.6,10
+"In my opinion, Incoherent editing made it impossible to follow the narrative.",negative,Comedy,3.8,12
+"To be fair, A formulaic and forgettable film that offers nothing new.",negative,Thriller,1.7,12
+A complete waste of time. The plot made absolutely no sense.,negative,Comedy,3.8,11
+"Honestly, Terribly boring film with zero character development whatsoever.",negative,Action,2.6,9
+"Overall, The worst movie I have seen in years. Deeply disappointing.",negative,Comedy,4.5,11
+"In my opinion, Poor acting, weak script, and a completely predictable ending.",negative,Horror,3.1,12
+"To be fair, I fell asleep halfway through. Nothing interesting happened.",negative,Comedy,4.9,11
+A total disaster from the opening scene to the painful finale.,negative,Thriller,3.4,11
+"Honestly, Confusing storyline with no resolution. Felt cheated watching this.",negative,Horror,1.9,10
+"Overall, The special effects were laughably bad and distracting.",negative,Thriller,4.3,9
+"In my opinion, Dull and lifeless. The characters were completely forgettable.",negative,Drama,2.4,11
+"To be fair, Painful to sit through. The dialogue was cringeworthy throughout.",negative,Drama,2.4,12
+A massive disappointment given the talented cast involved.,negative,Horror,1.1,8
+"Honestly, Rushed plot with too many unresolved storylines left hanging.",negative,Action,3.2,10
+"Overall, Could not connect with any of the characters at all.",negative,Drama,3.1,11
+"In my opinion, The writing felt lazy and uninspired throughout the whole film.",negative,Comedy,2.4,13
+"To be fair, Tedious pacing made this feel three times longer than it was.",negative,Thriller,4.6,14
+A hollow story with absolutely nothing original to offer.,negative,Drama,1.5,9
+"Honestly, The worst script I have encountered in recent memory.",negative,Drama,2.3,10
+"Overall, Loud, chaotic, and exhausting without any emotional depth.",negative,Action,2.3,9
+"In my opinion, The director clearly had no vision for this project.",negative,Horror,1.4,12
+"To be fair, Absolutely hated the ending. It undid everything built up.",negative,Horror,2.9,12
+Cheap production values that undermined the entire experience.,negative,Sci-Fi,3.8,8
+"Honestly, Overly long and self-indulgent with very little payoff.",negative,Action,3,9
+"Overall, Flat performances from a cast that deserved much better.",negative,Comedy,1.6,10
+"In my opinion, Incoherent editing made it impossible to follow the narrative.",negative,Horror,2.5,12
+"To be fair, A formulaic and forgettable film that offers nothing new.",negative,Thriller,1,12
+A complete waste of time. The plot made absolutely no sense.,negative,Action,4.5,11
+"Honestly, Terribly boring film with zero character development whatsoever.",negative,Drama,1.3,9
+"Overall, The worst movie I have seen in years. Deeply disappointing.",negative,Thriller,3.4,11
+"In my opinion, Poor acting, weak script, and a completely predictable ending.",negative,Thriller,4.9,12
+"To be fair, I fell asleep halfway through. Nothing interesting happened.",negative,Drama,3.1,11
+A total disaster from the opening scene to the painful finale.,negative,Action,4.7,11
+"Honestly, Confusing storyline with no resolution. Felt cheated watching this.",negative,Drama,1.9,10
+"Overall, The special effects were laughably bad and distracting.",negative,Sci-Fi,4,9
+"In my opinion, Dull and lifeless. The characters were completely forgettable.",negative,Thriller,3.1,11
+"To be fair, Painful to sit through. The dialogue was cringeworthy throughout.",negative,Romance,3.9,12
+A massive disappointment given the talented cast involved.,negative,Romance,1.2,8
+"Honestly, Rushed plot with too many unresolved storylines left hanging.",negative,Comedy,1.6,10
+"Overall, Could not connect with any of the characters at all.",negative,Horror,1.5,11
+"In my opinion, The writing felt lazy and uninspired throughout the whole film.",negative,Drama,3.7,13
+"To be fair, Tedious pacing made this feel three times longer than it was.",negative,Drama,4.4,14
+A hollow story with absolutely nothing original to offer.,negative,Comedy,4,9
+"Honestly, The worst script I have encountered in recent memory.",negative,Comedy,1.1,10
+"Overall, Loud, chaotic, and exhausting without any emotional depth.",negative,Comedy,4.5,9
+"In my opinion, The director clearly had no vision for this project.",negative,Thriller,2.4,12
+"To be fair, Absolutely hated the ending. It undid everything built up.",negative,Sci-Fi,2.6,12
+Cheap production values that undermined the entire experience.,negative,Drama,1.4,8
+"Honestly, Overly long and self-indulgent with very little payoff.",negative,Thriller,3.9,9
+"Overall, Flat performances from a cast that deserved much better.",negative,Comedy,1.7,10
+"In my opinion, Incoherent editing made it impossible to follow the narrative.",negative,Drama,3.3,12
+"To be fair, A formulaic and forgettable film that offers nothing new.",negative,Thriller,4.4,12
+A complete waste of time. The plot made absolutely no sense.,negative,Sci-Fi,1.4,11
+"Honestly, Terribly boring film with zero character development whatsoever.",negative,Thriller,3.1,9
+"Overall, The worst movie I have seen in years. Deeply disappointing.",negative,Sci-Fi,1.9,11
+"In my opinion, Poor acting, weak script, and a completely predictable ending.",negative,Comedy,2.4,12
+"To be fair, I fell asleep halfway through. Nothing interesting happened.",negative,Sci-Fi,2.9,11
+A total disaster from the opening scene to the painful finale.,negative,Drama,2.4,11
+"Honestly, Confusing storyline with no resolution. Felt cheated watching this.",negative,Comedy,3.6,10
+"Overall, The special effects were laughably bad and distracting.",negative,Drama,2.9,9
+"In my opinion, Dull and lifeless. The characters were completely forgettable.",negative,Romance,3.3,11
+"To be fair, Painful to sit through. The dialogue was cringeworthy throughout.",negative,Action,3.9,12
+A massive disappointment given the talented cast involved.,negative,Sci-Fi,3.2,8
+"Honestly, Rushed plot with too many unresolved storylines left hanging.",negative,Action,3.3,10
+"Overall, Could not connect with any of the characters at all.",negative,Action,3.3,11
+"In my opinion, The writing felt lazy and uninspired throughout the whole film.",negative,Sci-Fi,2.5,13
+"To be fair, Tedious pacing made this feel three times longer than it was.",negative,Comedy,2.3,14
+A hollow story with absolutely nothing original to offer.,negative,Romance,4.6,9
+"Honestly, The worst script I have encountered in recent memory.",negative,Drama,3.4,10
+"Overall, Loud, chaotic, and exhausting without any emotional depth.",negative,Thriller,2,9
+"In my opinion, The director clearly had no vision for this project.",negative,Drama,3,12
+"To be fair, Absolutely hated the ending. It undid everything built up.",negative,Thriller,2.3,12
+Cheap production values that undermined the entire experience.,negative,Drama,4.7,8
+"Honestly, Overly long and self-indulgent with very little payoff.",negative,Sci-Fi,1,9
+"Overall, Flat performances from a cast that deserved much better.",negative,Romance,1.9,10
+"In my opinion, Incoherent editing made it impossible to follow the narrative.",negative,Thriller,2.5,12
+"To be fair, A formulaic and forgettable film that offers nothing new.",negative,Horror,3,12
+A complete waste of time. The plot made absolutely no sense.,negative,Comedy,4.4,11
+"Honestly, Terribly boring film with zero character development whatsoever.",negative,Drama,1.4,9
+"Overall, The worst movie I have seen in years. Deeply disappointing.",negative,Drama,4.2,11
+"In my opinion, Poor acting, weak script, and a completely predictable ending.",negative,Thriller,1.2,12
+"To be fair, I fell asleep halfway through. Nothing interesting happened.",negative,Comedy,4.4,11
+A total disaster from the opening scene to the painful finale.,negative,Comedy,1.2,11
+"Honestly, Confusing storyline with no resolution. Felt cheated watching this.",negative,Sci-Fi,1.1,10
+"Overall, The special effects were laughably bad and distracting.",negative,Horror,3.8,9
+"In my opinion, Dull and lifeless. The characters were completely forgettable.",negative,Sci-Fi,5,11
+"To be fair, Painful to sit through. The dialogue was cringeworthy throughout.",negative,Sci-Fi,4.6,12
+A massive disappointment given the talented cast involved.,negative,Sci-Fi,3.3,8
+"Honestly, Rushed plot with too many unresolved storylines left hanging.",negative,Sci-Fi,4.7,10
+"Overall, Could not connect with any of the characters at all.",negative,Sci-Fi,1,11
+"In my opinion, The writing felt lazy and uninspired throughout the whole film.",negative,Romance,4.9,13
+"To be fair, Tedious pacing made this feel three times longer than it was.",negative,Comedy,3,14
+A hollow story with absolutely nothing original to offer.,negative,Sci-Fi,3.9,9
+"Honestly, The worst script I have encountered in recent memory.",negative,Comedy,4.3,10
+"Overall, Loud, chaotic, and exhausting without any emotional depth.",negative,Comedy,3.9,9
+"In my opinion, The director clearly had no vision for this project.",negative,Action,3.1,12
+"To be fair, Absolutely hated the ending. It undid everything built up.",negative,Romance,2.9,12
+Cheap production values that undermined the entire experience.,negative,Sci-Fi,4.4,8
+"Honestly, Overly long and self-indulgent with very little payoff.",negative,Drama,1.8,9
+"Overall, Flat performances from a cast that deserved much better.",negative,Thriller,4.9,10
+"In my opinion, Incoherent editing made it impossible to follow the narrative.",negative,Horror,3.8,12
+"To be fair, A formulaic and forgettable film that offers nothing new.",negative,Drama,1.8,12
+A complete waste of time. The plot made absolutely no sense.,negative,Romance,3.9,11
+"Honestly, Terribly boring film with zero character development whatsoever.",negative,Thriller,3.1,9
+"Overall, The worst movie I have seen in years. Deeply disappointing.",negative,Romance,3.8,11
+"In my opinion, Poor acting, weak script, and a completely predictable ending.",negative,Comedy,4.1,12
+"To be fair, I fell asleep halfway through. Nothing interesting happened.",negative,Thriller,1.3,11
+A total disaster from the opening scene to the painful finale.,negative,Comedy,3,11
+"Honestly, Confusing storyline with no resolution. Felt cheated watching this.",negative,Drama,4.7,10
+"Overall, The special effects were laughably bad and distracting.",negative,Drama,2.3,9
+"In my opinion, Dull and lifeless. The characters were completely forgettable.",negative,Thriller,3.4,11
+"To be fair, Painful to sit through. The dialogue was cringeworthy throughout.",negative,Thriller,2.5,12
+A massive disappointment given the talented cast involved.,negative,Sci-Fi,2.8,8
+"Honestly, Rushed plot with too many unresolved storylines left hanging.",negative,Romance,3.2,10
+"Overall, Could not connect with any of the characters at all.",negative,Sci-Fi,3.2,11
+"In my opinion, The writing felt lazy and uninspired throughout the whole film.",negative,Romance,1.8,13
+"To be fair, Tedious pacing made this feel three times longer than it was.",negative,Sci-Fi,3.7,14
+A hollow story with absolutely nothing original to offer.,negative,Comedy,1.4,9
+"Honestly, The worst script I have encountered in recent memory.",negative,Thriller,1.6,10
+"Overall, Loud, chaotic, and exhausting without any emotional depth.",negative,Drama,1,9
+"In my opinion, The director clearly had no vision for this project.",negative,Romance,1.5,12
+"To be fair, Absolutely hated the ending. It undid everything built up.",negative,Romance,2.9,12
+Cheap production values that undermined the entire experience.,negative,Drama,3.4,8
+"Honestly, Overly long and self-indulgent with very little payoff.",negative,Sci-Fi,4.2,9
+"Overall, Flat performances from a cast that deserved much better.",negative,Romance,1.4,10
+"In my opinion, Incoherent editing made it impossible to follow the narrative.",negative,Horror,4.4,12
+"To be fair, A formulaic and forgettable film that offers nothing new.",negative,Comedy,4,12
+A complete waste of time. The plot made absolutely no sense.,negative,Thriller,2.6,11
+"Honestly, Terribly boring film with zero character development whatsoever.",negative,Drama,4.7,9
+"Overall, The worst movie I have seen in years. Deeply disappointing.",negative,Thriller,5,11
+"In my opinion, Poor acting, weak script, and a completely predictable ending.",negative,Horror,1.8,12
+"To be fair, I fell asleep halfway through. Nothing interesting happened.",negative,Romance,2.5,11
+A total disaster from the opening scene to the painful finale.,negative,Romance,4.7,11
+"Honestly, Confusing storyline with no resolution. Felt cheated watching this.",negative,Horror,3.9,10
+"Overall, The special effects were laughably bad and distracting.",negative,Drama,1.2,9
+"In my opinion, Dull and lifeless. The characters were completely forgettable.",negative,Comedy,4.1,11
+"To be fair, Painful to sit through. The dialogue was cringeworthy throughout.",negative,Action,4.3,12
+A massive disappointment given the talented cast involved.,negative,Drama,4,8
+"Honestly, Rushed plot with too many unresolved storylines left hanging.",negative,Action,4.2,10
+"Overall, Could not connect with any of the characters at all.",negative,Horror,4.3,11
+"In my opinion, The writing felt lazy and uninspired throughout the whole film.",negative,Sci-Fi,1.7,13
+"To be fair, Tedious pacing made this feel three times longer than it was.",negative,Action,1.9,14
+A hollow story with absolutely nothing original to offer.,negative,Comedy,3.5,9
+"Honestly, The worst script I have encountered in recent memory.",negative,Sci-Fi,4.6,10
+"Overall, Loud, chaotic, and exhausting without any emotional depth.",negative,Action,2.3,9
+"In my opinion, The director clearly had no vision for this project.",negative,Horror,3.4,12
+"To be fair, Absolutely hated the ending. It undid everything built up.",negative,Sci-Fi,3.7,12
+Cheap production values that undermined the entire experience.,negative,Horror,2.8,8
+"Honestly, Overly long and self-indulgent with very little payoff.",negative,Action,3.9,9
+"Overall, Flat performances from a cast that deserved much better.",negative,Horror,4.6,10
+"In my opinion, Incoherent editing made it impossible to follow the narrative.",negative,Comedy,3.5,12
+"To be fair, A formulaic and forgettable film that offers nothing new.",negative,Action,3.2,12
+A complete waste of time. The plot made absolutely no sense.,negative,Action,2.8,11
+"Honestly, Terribly boring film with zero character development whatsoever.",negative,Action,3.3,9
+"Overall, The worst movie I have seen in years. Deeply disappointing.",negative,Drama,2.4,11
+"In my opinion, Poor acting, weak script, and a completely predictable ending.",negative,Drama,2.6,12
+"To be fair, I fell asleep halfway through. Nothing interesting happened.",negative,Drama,3.1,11
+A total disaster from the opening scene to the painful finale.,negative,Comedy,1.3,11
+"Honestly, Confusing storyline with no resolution. Felt cheated watching this.",negative,Sci-Fi,1.9,10
+"Overall, The special effects were laughably bad and distracting.",negative,Horror,3.2,9
+"In my opinion, Dull and lifeless. The characters were completely forgettable.",negative,Romance,2.7,11
+"To be fair, Painful to sit through. The dialogue was cringeworthy throughout.",negative,Action,2.3,12
+A massive disappointment given the talented cast involved.,negative,Horror,3.9,8
+"Honestly, Rushed plot with too many unresolved storylines left hanging.",negative,Action,3.8,10
+"Overall, Could not connect with any of the characters at all.",negative,Comedy,1.7,11
+"In my opinion, The writing felt lazy and uninspired throughout the whole film.",negative,Action,4.5,13
+"To be fair, Tedious pacing made this feel three times longer than it was.",negative,Drama,3,14
+A hollow story with absolutely nothing original to offer.,negative,Romance,4,9
+"Honestly, The worst script I have encountered in recent memory.",negative,Thriller,3.3,10
+"Overall, Loud, chaotic, and exhausting without any emotional depth.",negative,Action,5,9
+"In my opinion, The director clearly had no vision for this project.",negative,Horror,4,12
+"To be fair, Absolutely hated the ending. It undid everything built up.",negative,Drama,3.8,12
+Cheap production values that undermined the entire experience.,negative,Thriller,4.1,8
+"Honestly, Overly long and self-indulgent with very little payoff.",negative,Romance,1.6,9
+"Overall, Flat performances from a cast that deserved much better.",negative,Thriller,1.8,10
+"In my opinion, Incoherent editing made it impossible to follow the narrative.",negative,Drama,3.9,12
+"To be fair, A formulaic and forgettable film that offers nothing new.",negative,Sci-Fi,3,12
+A complete waste of time. The plot made absolutely no sense.,negative,Sci-Fi,4,11
+"Honestly, Terribly boring film with zero character development whatsoever.",negative,Thriller,1.4,9
+"Overall, The worst movie I have seen in years. Deeply disappointing.",negative,Comedy,3.1,11
+"In my opinion, Poor acting, weak script, and a completely predictable ending.",negative,Horror,2.5,12
+"To be fair, I fell asleep halfway through. Nothing interesting happened.",negative,Horror,2.8,11
+A total disaster from the opening scene to the painful finale.,negative,Thriller,3.4,11
+"Honestly, Confusing storyline with no resolution. Felt cheated watching this.",negative,Action,3,10
+"Overall, The special effects were laughably bad and distracting.",negative,Action,3.2,9
+"In my opinion, Dull and lifeless. The characters were completely forgettable.",negative,Horror,2.9,11
+"To be fair, Painful to sit through. The dialogue was cringeworthy throughout.",negative,Horror,2.6,12
+A massive disappointment given the talented cast involved.,negative,Sci-Fi,4.1,8
+"Honestly, Rushed plot with too many unresolved storylines left hanging.",negative,Comedy,1,10
+"Overall, Could not connect with any of the characters at all.",negative,Drama,3.4,11
+"In my opinion, The writing felt lazy and uninspired throughout the whole film.",negative,Action,3.3,13
+"To be fair, Tedious pacing made this feel three times longer than it was.",negative,Horror,3.9,14
+A hollow story with absolutely nothing original to offer.,negative,Sci-Fi,3.4,9
+"Honestly, The worst script I have encountered in recent memory.",negative,Romance,4.3,10
+"Overall, Loud, chaotic, and exhausting without any emotional depth.",negative,Sci-Fi,4.8,9
+"In my opinion, The director clearly had no vision for this project.",negative,Action,2.4,12
+"To be fair, Absolutely hated the ending. It undid everything built up.",negative,Action,1.9,12
+Cheap production values that undermined the entire experience.,negative,Sci-Fi,2.7,8
+"Honestly, Overly long and self-indulgent with very little payoff.",negative,Drama,2.2,9
+"Overall, Flat performances from a cast that deserved much better.",negative,Thriller,3.5,10
+"In my opinion, Incoherent editing made it impossible to follow the narrative.",negative,Action,4.6,12
+"To be fair, A formulaic and forgettable film that offers nothing new.",negative,Sci-Fi,1.6,12
